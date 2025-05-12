@@ -99,7 +99,7 @@ cardanoscan.io will also show the transaction:
 ## Generating a stake key pair and a type 0 address
 
 ```
-cardano-cli stake-address key-gen \
+cardano-cli conway stake-address key-gen \
 --verification-key-file stake.vkey \
 --signing-key-file stake.skey
 ```
